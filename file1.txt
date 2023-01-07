@@ -3,4 +3,6 @@ This is first session of git
 git is a distributed VCS
 git can be used in UI and cmdline.
 adding another line to fix bug-123
+adding another line to fix bug-456
 addling line to show 3-way merge
+
