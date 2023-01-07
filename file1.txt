@@ -1,2 +1,3 @@
 welcome to git session
 This is first session of git
+git is a distributed VCS
