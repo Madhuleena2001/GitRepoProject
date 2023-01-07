@@ -7,4 +7,5 @@ adding another line to fix bug-456
 addling line to show 3-way merge
 line added to see rebase
 line added by team member 1
-see fetch with conflict
+line added to check fetch command
+
